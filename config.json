@@ -1,0 +1,7 @@
+{
+  "school_name": "上海应用技术大学",
+  "ai_service": "doubao",
+  "max_files_per_run": 20,
+  "wait_time_between_calls": 2,
+  "output_template": "公告_%Y%m%d_%H%M%S_原文件名"
+}
